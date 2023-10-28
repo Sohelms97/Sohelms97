@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Sohel from Satkania, living in Dhaka.<br><br>- 🔭 I’m currently a student at University of Asia Pacific<br>- 📚 Pursuing my Bachelors Degree in Computer Science and Engineering.<br>- ⚡ In my free time I travel and capture the beautiful Moments of Hills.</p>
+<p align="left">I'm Sohel from Satkania, living in Dhaka.<br><br>- 🔭 I’m currently a student at University of Asia Pacific<br>- 📚 Pursuing my Bachelors Degree in Computer Science and Engineering.<br>- ⚡ In my free time I travel and capture the beautiful Moments.</p>
 
 ###
 
